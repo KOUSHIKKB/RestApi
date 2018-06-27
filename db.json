@@ -1,14 +1,31 @@
 {
 "Cricket" : [
-{
+ 
+  "Group 1" : [
+  {
+  " India VS Pakisthan ",
   "Team Name" : "India" , 
  "Total Players" : 11 , 
- "Player Names" : " Sachin, Ganuguly, Virat, Sehwag, Zaheer khan, Yuvraj, Irfan, KL Rahul, Hardik Pandya"
+ "Player Names" : " Sachin, Ganuguly "
 },
 {
   "Team Name" : "Pakisthan" , 
   " Total Players" : 11 , 
-  "Player Names" : "King Queen "
-  }
+  "Player Names" : "Afridi, Inzamam "
+  
+  },
   ]
+  "Group 2" : [
+  {
+  " Australia VS Srilanka ",
+  "Team Name" : "Australia", 
+  "Total Players" : 11,
+  " Player Names" : "Pointing, Lee "
+},
+{
+  "Team Name" : "Srilanka",
+  "Total Players" : 11,
+  " Player Names" : "Murali, Malinga "
+}
+]
 }
