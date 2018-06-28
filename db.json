@@ -1,31 +1,9 @@
 {
+"Cricket" : [
 
- 
-  "Cricket" : [
-  {
-  
-  "Team Name" : "India" , 
- "Total Players" : 11 , 
- "Player Names" : " Sachin, Ganuguly "
-},
-{
-  "Team Name" : "Pakisthan" , 
-  " Total Players" : 11 , 
-  "Player Names" : "Afridi, Inzamam "
-  
-  },
-  
-
-  {
-  
-  "Team Name" : "Australia", 
-  "Total Players" : 11,
-  " Player Names" : "Pointing, Lee "
-},
-{
-  "Team Name" : "Srilanka",
-  "Total Players" : 11,
-  " Player Names" : "Murali, Malinga "
-}
+ { "Team Name" : "India" , "Total Players" : 11 , "Player Names" : " Sachin, Ganuguly " },
+ { "Team Name" : "Pakisthan" , " Total Players" : 11 ,"Player Names" : "Afridi, Inzamam " },
+ { "Team Name" : "Australia", "Total Players" : 11, " Player Names" : "Pointing, Lee "},
+ { "Team Name" : "Srilanka", "Total Players" : 11, " Player Names" : "Murali, Malinga " }
 ]
 }
